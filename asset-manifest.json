@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/1clickstudios/static/css/main.11cf952e.css",
+    "main.js": "/1clickstudios/static/js/main.a85f84ff.js",
+    "static/js/787.757c4351.chunk.js": "/1clickstudios/static/js/787.757c4351.chunk.js",
+    "index.html": "/1clickstudios/index.html",
+    "main.11cf952e.css.map": "/1clickstudios/static/css/main.11cf952e.css.map",
+    "main.a85f84ff.js.map": "/1clickstudios/static/js/main.a85f84ff.js.map",
+    "787.757c4351.chunk.js.map": "/1clickstudios/static/js/787.757c4351.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11cf952e.css",
+    "static/js/main.a85f84ff.js"
+  ]
+}
